@@ -10,6 +10,7 @@
 *.perspective
 *.perspectivev3
 *.pbxuser
+*.xccheckout
 
 # XCode 4
 xcuserdata
